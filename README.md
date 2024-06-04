@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Nitos;
+- 👋 Hi, I'm Danylo;
 - 👀 I'm interested in FullStack dev;
 - 🌱 I’m currently studying at Kharkov University
 - 💞️ Looking for a job in a good team
